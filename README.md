@@ -22,3 +22,4 @@ void loop()
 ```
 
 ![](https://github.com/IDiegoUlises/Esp32-Deep-Sleep/blob/main/Images/Esp32-Deep-Sleep.gif)
+* Esta siempre en modo sueño cuando se presiona el boton se despierta
