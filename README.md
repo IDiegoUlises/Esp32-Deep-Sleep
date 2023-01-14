@@ -2,6 +2,7 @@
 
 <img src="https://github.com/IDiegoUlises/Esp32-Deep-Sleep/blob/main/Images/ESP32-DOIT-DEVKIT.jpg" width="1000" height="400" />
 
+* Todos los puertos que sean RTC pueden ser utilizados 
 
 ```c++
 void setup()
