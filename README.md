@@ -4,6 +4,7 @@
 
 * Todos los puertos que sean RTC pueden ser utilizados como activacion externa (ext0)
 
+### Codigo
 ```c++
 void setup()
 {
